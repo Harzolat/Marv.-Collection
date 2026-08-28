@@ -1,0 +1,6 @@
+{
+  "name": "Marv. collection",
+  "description": "Curated minimalist luxury garments, bespoke made-to-measure tailoring studio, client portal, and atelier product customization platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
